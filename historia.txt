@@ -2,8 +2,6 @@ Esta es la histotia de jonathan
 Un joven de taaa..
 Experimento1
 Master1
-
-
-
-master 2
+Experimento2
+Master2
 estudia ingenieria
